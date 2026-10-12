@@ -4,7 +4,7 @@ A fictional corporate website for **Neonvault Group**, a company that restores, 
 
 Every game "screenshot" on the page is an **animated pixel-art scene drawn in code** on a `<canvas>`, as an original tribute to the arcade classics.
 
-**Live demo:** https://demoncoder354.github.io/project-two/
+**Live demo:** https://demoncoder354.github.io/neonvault-arcade-site/
 
 ---
 
@@ -57,7 +57,7 @@ No installation or build is required.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DemonCoder354/project-two.git
+   git clone https://github.com/DemonCoder354/neonvault-arcade-site.git
    ```
 2. Open `index.html` in a browser.
 
